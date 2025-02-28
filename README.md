@@ -1,4 +1,4 @@
-   # Hey there, I'm Yousra !
+![header](https://capsule-render.vercel.app/api?type=waving&color=A83279&height=240&section=header&text=Hey%20there,%20i'm%20Yousra&fontSize=70&animation=fadeIn&fontColor=black)
 I’m a passionate developer who loves solving problems and bringing ideas to life through code.
 
 ---
