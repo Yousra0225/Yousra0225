@@ -1,0 +1,25 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Exécution quotidienne, tous les jours à minuit
+  push:
+    branches:
+      - main  # Cette action sera aussi exécutée quand tu pousseras des changements sur la branche principale
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake Game from GitHub user contributions
+      uses: Platane/snk@v3
+      with:
+        github_user_name: ${{ github.Yousra0225 }}  # Ton nom d'utilisateur GitHub
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
