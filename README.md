@@ -2,7 +2,7 @@
 
 I’m a **developer** passionate about coding and problem-solving. I love working with **Java, PHP, and web development**. Constantly learning and improving, I aim to build efficient and scalable applications.  
 
-📫 Want to connect? [Contact me](mailto:chbibyousra02@gmail.com)  
+📫 Want to connect? [▶](mailto:chbibyousra02@gmail.com)  
 🚀 Check out my projects below!  
 
  
