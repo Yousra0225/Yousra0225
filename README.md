@@ -1,7 +1,21 @@
-# 👋 Hi, I'm Yousra!  
+   # Hey there, I'm Yousra !
+I’m a passionate developer who loves solving problems and bringing ideas to life through code.
 
-I’m a **developer** passionate about coding and problem-solving.Constantly learning and improving, I aim to build efficient and scalable applications.  
+---
 
+## 📍 Where I am:
+- **Country**: France 🇫🇷 
+- **Age**: 23 years old 🎂
+
+---
+
+## 🔥 My Skills:
+
+- **Problem Solving**: I enjoy facing challenges and coming up with innovative solutions.  
+- **Analysis**: I break down complex problems to understand and address them efficiently. 
+- **Organization**: Highly organized, ensuring projects stay on track and deadlines are met.  
+
+---
 📫 Want to connect? [Contact me](mailto:chbibyousra02@gmail.com)  
 🚀 Check out my projects below!  
 
