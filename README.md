@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A83279&height=240&section=header&text=Hey%20there,%20i'm%20Yousra&fontSize=70&animation=fadeIn&fontColor=black)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&width=435&lines=Developer;Problem+Solver;Passionate+about+coding" alt="Typing SVG" />
 </p>
@@ -34,12 +28,5 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
 
 
