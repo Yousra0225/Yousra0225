@@ -14,20 +14,22 @@
 
 ---
 
-
-### 🛠 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql&theme=dark" />
-</p>
-
----
-
 ### 💻 Try my CLI command!
 
 ```bash
 npx yousra-cli
 ```
 ---
+
+
+### 🛠 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,js,html,css,sql&theme=dark" />
+</p>
+
+---
+
+
 
 ### 🏆 GitHub Stats:
 <p align="center">
