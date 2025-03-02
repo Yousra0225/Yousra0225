@@ -20,15 +20,15 @@
 npx yousra-cli
 ```
 ---
-
-
-### 🛠 Tech Stack:
+## 📊 Most Used Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,php,js,html,css,sql&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 </p>
 
 ---
-
 
 
 ### 🏆 GitHub Stats:
