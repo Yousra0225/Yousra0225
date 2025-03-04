@@ -27,9 +27,7 @@ npx yousra-cli
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 </p>
-
 ---
-
 
 ### 🏆 GitHub Stats:
 <p align="center">
