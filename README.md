@@ -36,5 +36,5 @@ npx yousra-cli
 </p>
 
 ---
-
-
+## 🔥 Graphique de mes contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=github-dark)
