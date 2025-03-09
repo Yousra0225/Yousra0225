@@ -22,9 +22,6 @@ npx yousra-cli
 ---
 ## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 </p>
 ---
@@ -32,9 +29,14 @@ npx yousra-cli
 ### 🏆 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousra0225&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" />
 </p>
 
 ---
 ## 🔥 Graphique de mes contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical)
+
+## 👀 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yousra0225&color=ff1493&style=flat" alt="Profile views" />
+</p>
