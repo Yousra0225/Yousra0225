@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A83279&height=240&section=header&text=Hey%20there,%20i'm%20Yousra&fontSize=70&animation=fadeIn&fontColor=black)
+# Hey there , i'm Yousra
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&width=435&lines=Developer;Problem+Solver;Passionate+about+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF1493&center=true&width=435&lines=Developer;Problem+Solver;Passionate+about+coding" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,19 +21,23 @@ npx yousra-cli
 ```
 ---
 ## 📊 Most Used Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e"" width="35%" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" /></p>
 </p>
-### 🏆 GitHub Stats:
+## 🏆 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e" />
 </p>
 
----
-## 🔥 Graphique de mes contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical)
 
+---
+## GitHub Activity
+<p align="center">
+  <a href="https://github.com/Yousra0225">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e"/>
+  </a>
+</p>
 ## 👀 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yousra0225&color=ff1493&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yousra0225&color=f5406e&&style=flat" alt="Profile views" />
 </p>
