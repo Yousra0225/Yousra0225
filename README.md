@@ -21,15 +21,12 @@ npx yousra-cli
 ```
 ---
 ## 📊 Most Used Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" /></p>
 </p>
----
-
 ### 🏆 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" />
 </p>
 
 ---
