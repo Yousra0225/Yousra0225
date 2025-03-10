@@ -23,6 +23,7 @@
 
 ## 🏆 GitHub Stats:
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e" />
 </p>
 
