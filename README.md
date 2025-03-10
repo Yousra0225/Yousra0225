@@ -31,7 +31,7 @@
 ## GitHub Activity
 <p align="center">
   <a href="https://github.com/Yousra0225">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical&line=f5406e&point=f5406e&bg_color=141321"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical&color=f5406e&line=f5406e&point=f5406e&bg_color=141321"/>
   </a>
 </p>
 
