@@ -15,7 +15,7 @@
 ---
 
 ## 📊 Most Used Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e"" width="35%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical&color=f5406e&line=f5406e&point=f5406e" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" /></p>
 </p>
 
@@ -23,15 +23,15 @@
 
 ## 🏆 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousra0225&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousra0225&show_icons=true&theme=radical&color=f5406e&line=f5406e&point=f5406e" />
 </p>
 
 ---
 ## GitHub Activity
 <p align="center">
   <a href="https://github.com/Yousra0225">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical&bg_color=000000&color=f5406e&line=f5406e&point=f5406e"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousra0225&theme=radical&line=f5406e&point=f5406e"/>
   </a>
 </p>
 
