@@ -7,10 +7,10 @@
 ---
 
 ### 🔥 About Me:
-- 💻 Developer
+- 💻 Developer with skills in application design, programming, and data handling
 - 🌍 Based in France
 - 🎨 Passion: Photography, Calligraphy
-- 🚀 Skills: Problem Solving, Programming, Analysis
+- 🚀 Skills: Problem Solving, Programming, database modeling
 
 ---
 
