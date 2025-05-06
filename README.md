@@ -13,9 +13,9 @@
 - 🚀 Skills: Problem Solving, Programming, database modeling
 ---
 <p align="center">
-  <a href="[[linkedin.com/in/yousra-chbib-a1182b318](https://www.linkedin.com/in/yousra-chbib-a1182b318)](https://www.linkedin.com/in/yousra-chbib-a1182b318/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-  </a>
+ <a href="https://www.linkedin.com/in/yousra-chbib-a1182b318" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+</a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chbibyousra02@gmail.com&su=Contact%20depuis%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat-square" alt="Email">
