@@ -13,7 +13,7 @@
 - 🚀 Skills: Problem Solving, Programming, database modeling
 ---
 <p align="center">
-  <a href="[linkedin.com/in/yousra-chbib-a1182b318](https://www.linkedin.com/in/yousra-chbib-a1182b318)" target="_blank">
+  <a href="[[linkedin.com/in/yousra-chbib-a1182b318](https://www.linkedin.com/in/yousra-chbib-a1182b318)](https://www.linkedin.com/in/yousra-chbib-a1182b318/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
   &nbsp;
