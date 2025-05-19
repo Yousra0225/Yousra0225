@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat-square" alt="Email">
   </a>
 </p>
+---
 
  [![Codewars](https://www.codewars.com/users/Yousra_Ch/badges/large)](https://www.codewars.com/users/Yousra_Ch)
 
