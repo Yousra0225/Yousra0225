@@ -33,7 +33,9 @@
 
 ## 📊 Most Used Languages
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra0225&layout=compact&langs_count=8&theme=radical&color=f5406e&line=f5406e&point=f5406e" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=java,ts,php,html,css&theme=dark" /></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,php,symfony,html,css,tailwind&theme=dark" />
 </p>
 
 ---
